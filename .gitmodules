@@ -1,0 +1,3 @@
+[submodule "BGADLL.Cpp"]
+	path = BGADLL.Cpp
+	url = https://github.com/randalburns/bgadll-cpp.git
